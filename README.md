@@ -45,5 +45,5 @@ Future Enhancements: Lists potential improvements or features that could be adde
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-repository/pincode-distance-api.git
+https://github.com/vikashkumar7254/PincodeDistance.git
 cd pincode-distance-api
